@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m @wayne-1211
 - 👀 I’m interested in coding & CAD
-- 🌱 I’m currently learning cpp & python & fusion360
+- 🌱 I’m currently learning C++ & python & fusion360
 - 📫 How to reach me? wayne20051211@gmail.com
 - 🌐 Personal Blog: [Wayne's HackMD](https://hackmd.io/@wayne1211)
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, 我是 @wayne-1211
 - 👀 我喜歡寫程式 & 建模
-- 🌱 我在學 Cpp 和 python 和 Fusion360
+- 🌱 我在學 C++ 和 python 和 Fusion360
 - 📫 聯繫我? wayne20051211@gmail.com
 - 🌐 個人部落格: [Wayne's HackMD](https://hackmd.io/@wayne1211)
 
